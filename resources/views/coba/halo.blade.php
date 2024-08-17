@@ -1,0 +1,1 @@
+<h1>Halo {{ $namaGw }} Selamat Datang di Laravel 11</h1>  
